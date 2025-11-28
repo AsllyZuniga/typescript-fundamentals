@@ -23,6 +23,7 @@ callBatman();
 const joinHeroes = (...people: string[]): string => {
   return people.join(", ");
 };
+//
 
 // Function type
 type DoNothingType = (
