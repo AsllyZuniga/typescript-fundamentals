@@ -5,6 +5,7 @@
 
   const exists: boolean = false;
 
+  //
   // Tuples
   const heroPair: [string, string] = [batman, superman];
   const villain: [string, number, boolean] = ["Lex Luthor", 5, true];
